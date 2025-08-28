@@ -465,6 +465,6 @@ https://tvpass.org/live/mlb-02/hd
 #EXTINF:-1 tvg-id="" tvg-name="Dallas Wings @ Los Angeles Sparks (08/20 10:00 PM ET) HD" group-title="WNBA",Dallas Wings @ Los Angeles Sparks (08/20 10:00 PM ET) HD
 https://tvpass.org/live/WNBA01/hd
 
-#EXTINF:-1 tvg-id="BYUTV" tvg-name="BYUtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BYUtv_logo.svg/1200px-BYUtv_logo.svg.png" group-title="General",BYUtv
-https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
+#EXTINF:0 tvg-logo="http://www.byutv.org/Content/images/logo.png" epg-id="" epg-file="" group-genre="EDUCATION" tvg-country="US" tvg-name="BYU TV" tvg-language="english" group-title="",BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
 
