@@ -75,8 +75,7 @@ https://tvpass.org/live/DisneyXDEast/hd
 https://tvpass.org/live/EEast/hd
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
 https://tvpass.org/live/ESPN/hd
-#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" group-title="Live",ESPN Deportes HD
-https://tvpass.org/live/espn-deportes/hd
+
 #EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News HD" group-title="Live",ESPN News HD
 https://tvpass.org/live/ESPNews/hd
 #EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" group-title="Live",ESPN U HD
