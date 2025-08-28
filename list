@@ -45,8 +45,7 @@ https://tvpass.org/live/WCBSDT1/hd
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
 #EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network HD" group-title="Live",Chicago Sports Network HD
 https://tvpass.org/live/chicago-sports-network/hd
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed HD" group-title="Live",Cinemax Eastern Feed HD
-https://tvpass.org/live/CinemaxEast/hd
+
 #EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed HD" group-title="Live",CMT US Eastern Feed HD
 https://tvpass.org/live/CMTEast/hd
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA HD" group-title="Live",CNBC USA HD
@@ -109,8 +108,7 @@ https://tvpass.org/live/fanduel-sports-network-socal/hd
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
 #EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee HD" group-title="Live",Fanduel Sports Network South Tennessee HD
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West HD" group-title="Live",Fanduel Sports Network West HD
-https://tvpass.org/live/fanduel-sports-network-west/hd
+
 #EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin HD" group-title="Live",Fanduel Sports Network Wisconsin HD
 https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
 #EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia HD" group-title="Live",Fanduel Sports Southeast Georgia HD
@@ -145,8 +143,7 @@ https://tvpass.org/live/FreeformEast/hd
 https://tvpass.org/live/FuseEast/hd
 #EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel HD" group-title="Live",FX Movie Channel HD
 https://tvpass.org/live/FXMovieChannel/hd
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast HD" group-title="Live",FX Networks East Coast HD
-https://tvpass.org/live/FXEast/hd
+
 #EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern HD" group-title="Live",FXX USA Eastern HD
 https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern HD" group-title="Live",FYI USA Eastern HD
@@ -269,8 +266,6 @@ https://tvpass.org/live/NickelodeonEast/hd
 #EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East HD" group-title="Live",Nicktoons East HD
 https://tvpass.org/live/NicktoonsEast/hd
 
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern HD" group-title="Live",Oprah Winfrey Network USA Eastern HD
-https://tvpass.org/live/OWNEast/hd
 
 #EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US HD" group-title="Live",Outdoor Channel US HD
 https://tvpass.org/live/OutdoorChannel/hd
@@ -394,11 +389,8 @@ https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" group-title="Live",TV One HD
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" group-title="Live",Universal Kids HD
-https://tvpass.org/live/UniversalKidsEast/hd
 
-#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" group-title="Live",Univision Eastern Feed HD
-https://tvpass.org/live/UnivisionEast/hd
+
 
 #EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" group-title="Live",USA Network East Feed HD
 https://tvpass.org/live/USANetworkEast/hd
@@ -419,8 +411,6 @@ https://tvpass.org/live/WPIX/hd
 https://tvpass.org/live/yes-network/hd
 
 
-#EXTINF:0 tvg-logo="http://www.byutv.org/Content/images/logo.png" epg-id="" epg-file="" group-genre="EDUCATION" tvg-country="US" tvg-name="BYU TV" tvg-language="english" group-title="",BYU TV
-https://iptv-org.github.io/channels/us/BYUTVGlobal#SD
 
 
 
