@@ -31,10 +31,7 @@ https://tvpass.org/live/BloombergTV/hd
 https://tvpass.org/live/Boomerang/hd
 #EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed HD" group-title="Live",Bravo USA Eastern Feed HD
 https://tvpass.org/live/BravoEast/hd
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
-https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 HD" group-title="Live",C-SPAN 2 HD
-https://tvpass.org/live/CSPAN2/hd
+
 #EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
 https://tvpass.org/live/CartoonNetworkEast/hd
 #EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles HD" group-title="Live",CBS (KCBS) Los Angeles HD
@@ -133,8 +130,6 @@ https://tvpass.org/live/WNYWDT1/hd
 https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News HD" group-title="Live",Fox News HD
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1 HD" group-title="Live",Fox Sports 1 HD
-https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2 HD" group-title="Live",Fox Sports 2 HD
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed HD" group-title="Live",Freeform East Feed HD
@@ -164,8 +159,6 @@ https://tvpass.org/live/HBOEast/hd
 https://tvpass.org/live/HBO2East/hd
 #EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="Live",HBO Comedy HD East HD
 https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="Live",HBO Family Eastern Feed HD
-https://tvpass.org/live/HBOFamilyEast/hd
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="Live",HBO Signature (HBO 3) Eastern HD
 https://tvpass.org/live/HBOSignatureEast/hd
 #EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="Live",HBO Zone HD East HD
@@ -186,8 +179,7 @@ https://tvpass.org/live/IONTVEast/hd
 https://tvpass.org/live/LifetimeMoviesEast/hd
 #EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed HD" group-title="Live",Lifetime Network US Eastern Feed HD
 https://tvpass.org/live/LifetimeEast/hd
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East HD" group-title="Live",LOGO East HD
-https://tvpass.org/live/LogoEast/hd
+
 #EXTINF:-1 tvg-id="marquee-sports-network" tvg-name="Marquee Sports Network HD" group-title="Live",Marquee Sports Network HD
 https://tvpass.org/live/marquee-sports-network/hd
 #EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey HD" group-title="Live",MeTV Toons (WJLP2) New Jersey HD
